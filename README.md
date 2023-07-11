@@ -17,7 +17,6 @@ This project is developed using **React** and created with **Vite**. It retrieve
  
 
  - npm create vite@latest my-project -- --template react
- - cd my-project
  - npm install -D tailwindcss postcss autoprefixer
  - npx tailwindcss init -p
  - (Add tailwind.config.js file) content:  [ "./index.html", "./src/**/*.{js,ts,jsx,tsx}", ],
